@@ -7,6 +7,10 @@
 - about my self
 - contact me
 
+# Deploy Version
+- see the project [portfolio](https://girma336.github.io/)
+- deploy link [deploy](https://github.com/girma336/girma336.github.io/actions/runs/3219817472)
+
 ## Author 
 - Email [Girma Tarekegn] (https://email.com/tarekegngirma21@gmail.com)
 - GitHub [@girmatarekegn](https://github.com/girma336)
