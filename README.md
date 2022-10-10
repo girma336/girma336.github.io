@@ -7,7 +7,7 @@
 - about my self
 - contact me
 # deploy link
-- see the project [portfolio](https://github.com/girma336/girma336.github.io/actions/runs/3219817472)
+- see the project [portfolio](https://girma336.github.io/)
 
 ## Author 
 - Email [Girma Tarekegn] (https://email.com/tarekegngirma21@gmail.com)
