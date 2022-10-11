@@ -352,6 +352,7 @@ article {
   border-top-right-radius: 80px;
   margin-top: 28px;
 }
+
 .about-me-me {
   display: inline-flex;
   grid-template-columns: auto auto;
@@ -904,7 +905,7 @@ article {
 
   .about-me-me {
     display: block;
-    margin-left: 0px;
+    margin-left: 0;
     width: 370px;
     height: 1125px;
     margin-top: -50px;
