@@ -284,12 +284,6 @@ article {
   margin-top: -12px;
 }
 
-.back-description .page-list li:first-child {
-  list-style-type: none;
-  margin-left: 2px;
-  font-size: 16px;
-}
-
 .back-description .page-list p {
   font-style: normal;
   font-weight: 500;
@@ -670,6 +664,12 @@ li.language {
 .logo-nav .nav-bar li:hover {
   background-color: #396df2;
   border-radius: 8px;
+}
+
+.main-part .back-description .page-list li:first-child {
+  list-style-type: none;
+  margin-left: 2px;
+  font-size: 16px;
 }
 
 @media only screen and (max-width: 768px) {
