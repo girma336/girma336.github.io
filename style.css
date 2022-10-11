@@ -256,7 +256,7 @@ article {
   align-items: center;
   float: left;
   gap: 38px;
-  margin-top: -30px;
+  margin-top: -20px;
   margin-left: -40px;
 }
 
@@ -282,6 +282,12 @@ article {
   line-height: 24px;
   color: #6b778c;
   margin-top: -12px;
+}
+
+.back-description .page-list li:first-child {
+  list-style-type: none;
+  margin-left: 2px;
+  font-size: 16px;
 }
 
 .back-description .page-list p {
@@ -965,7 +971,7 @@ li.language {
 
   .up-down {
     position: absolute;
-    right: 208px;
+    right: 228px;
     border-bottom: none;
   }
 
