@@ -44,7 +44,7 @@ header {
   right: 150px;
 }
 
-.nav-bar ul {
+/*.nav-bar ul {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -62,7 +62,7 @@ header {
   line-height: 20px;
   color: #344563;
   text-decoration-line: none;
-}
+} */
 
 .container-1 {
   display: flex;
