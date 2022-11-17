@@ -1,12 +1,10 @@
 [](https://img.shields.io/badge/Microverse-blueviolet)
 
-## deploy
+# Capston-Project
+> Capston-Project
 
-Use GitHub Pages to deploy web pages.
-Demonstrate ability to ask clarifying questions about ambiguous requirements.
-For this milestone you will make your website available online.
-
-
+ - It has two pages home page and about page 
+ 
 
 ## Built With
 
