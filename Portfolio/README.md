@@ -1,11 +1,5 @@
-# computer-portfolio
-> Computer-portfolio
-
-# this project holds all part of computer portfolio
-- header
-- body
-- about my self
-- contact me
+## Deploy
+For this milestone you will make your website available online.
 
 # Deploy Version
 - see the project [portfolio](https://girma336.github.io/)
